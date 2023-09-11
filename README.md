@@ -10,6 +10,6 @@ Faça download do arquivo requirements.txt acima para a pasta de seu projeto. De
 
 > .env\Scripts\activate
 
-> python -m pip install --upgrade pip
+> pip install -U pip setuptools wheel
 
 > python -m pip install -r requirements.txt
